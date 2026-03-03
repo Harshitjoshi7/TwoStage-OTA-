@@ -28,7 +28,7 @@ The circuit utilizes a **Miller compensation capacitor (C16)** to perform pole-s
 
 ### 2. Testbench (TB) Setup
 The verification environment uses a specialized feedback network to maintain DC bias while allowing for open-loop AC Characterization.
-![Testbench Setup](design/ota_tb_setup.png)
+![Testbench Setup](design/ota_schematic_tb.png)
 
 ---
 
